@@ -1,0 +1,30 @@
+h1 { 
+    color: Black;
+    font-size: 45px;
+    font-family: 'Krub', sans-serif;
+}
+body { 
+    background-color: blue;
+}
+img {
+    width: 360px;  
+}
+h2 { font-size: 30px;
+    font-family: 'Mali', cursive;
+}
+p { 
+    font-size:24px;
+    font-family: 'Mali', cursive;
+}
+h4 {
+    font-size: 24px;
+    font-family: 'Mali', cursive;
+}
+h5 { 
+    font-size: 24px;
+    font-family: 'Mali', cursive;
+}
+li { 
+    font-size: 22px;
+    font-family: 'Mali', cursive;
+}
